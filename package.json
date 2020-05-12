@@ -1,5 +1,5 @@
 {
-  "name": "27_nodejs_logging",
+  "name": "nodejs-logging",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
