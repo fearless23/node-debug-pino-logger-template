@@ -10,7 +10,10 @@
     "start2": "node -r pino-debug src/server.js",
     "start:local2": "node -r dotenv/config -r pino-debug src/server.js | pino-colada"
   },
-  "author": "",
+  "author": {
+    "email": "jaspreetsingh2379@gmail.com",
+    "name": "Jaspreet Singh"
+  },
   "license": "MIT",
   "dependencies": {
     "debug": "^4.1.1",
